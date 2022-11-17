@@ -1,5 +1,5 @@
 # coding-challenge
-Examen de aptitudes en React.JS 
-ejecutar npm install para instalar los paquetes
-se uso la herramienta "vite" https://vitejs.dev/
-usuario y contraseña: admin
+Examen de aptitudes en React.JS.
+Ejecutar "npm install" para instalar los paquetes necesarios.
+Se uso  "vitejs" https://vitejs.dev/
+Usuario y contraseña: admin
